@@ -9,5 +9,5 @@ This is a demo repo for sharing ideas around communication
 
 ### Gist
 
-This is a good example of [my code] <script src="https://gist.github.com/luifg/c290ca31cbb425d4d6271f693f83a9de.js"></script>
+This is a good example of [my code] (https://gist.github.com/luifg/c290ca31cbb425d4d6271f693f83a9de.js)
 
